@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100mm"
+   height="65mm"
+   viewBox="0 0 354.33071 230.31496"
+   id="svg70657"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="breadboard_spc56_D_discovery_3.svg">
+  <defs
+     id="defs70659" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="170.57181"
+     inkscape:cy="152.98202"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg70657"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid70665"
+       spacingx="0.90000001"
+       spacingy="0.90000002"
+       units="mm" />
+    <sodipodi:guide
+       position="0,211.5"
+       orientation="1,0"
+       id="guide74565" />
+    <sodipodi:guide
+       position="216,0"
+       orientation="0,1"
+       id="guide74567" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata70662">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="#silkscreen"
+     inkscape:groupmode="layer"
+     id="silkcreen"
+     transform="translate(0,-822.04724)">
+    <g
+       id="copper0"
+       inkscape:label="#copper0">
+      <circle
+         id="connector59pad-7-2"
+         cx="43.494225"
+         cy="1045.87"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-1"
+         cx="43.494225"
+         cy="1038.7305"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-7"
+         cx="104.97134"
+         cy="1045.8846"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-9"
+         cx="113.7851"
+         cy="1045.9224"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-14"
+         cx="122.51894"
+         cy="1045.9447"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-13"
+         cx="96.239189"
+         cy="1038.6825"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-0"
+         cx="105.00066"
+         cy="1038.7563"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-5"
+         cx="113.7271"
+         cy="1038.7271"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-70"
+         cx="148.87228"
+         cy="1038.713"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-18"
+         cx="157.61407"
+         cy="1038.71"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-07"
+         cx="184.05537"
+         cy="1045.937"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-4"
+         cx="192.85646"
+         cy="1045.9147"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-55"
+         cx="210.39601"
+         cy="1045.9592"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-52"
+         cx="210.41833"
+         cy="1038.6731"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-16"
+         cx="219.19513"
+         cy="1045.9147"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-3"
+         cx="227.97256"
+         cy="1038.764"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-8"
+         cx="236.72638"
+         cy="1045.9147"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-82"
+         cx="254.36923"
+         cy="1045.9147"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-39"
+         cx="254.35522"
+         cy="1038.743"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-41"
+         cx="271.90048"
+         cy="1045.9147"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-91"
+         cx="280.68689"
+         cy="1045.907"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-42"
+         cx="289.46432"
+         cy="1045.8923"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-74"
+         cx="298.20648"
+         cy="1045.8923"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-2"
+         cx="307.02094"
+         cy="1045.9292"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-30"
+         cx="280.70221"
+         cy="1038.75"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-15"
+         cx="298.24152"
+         cy="1038.7117"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-10"
+         cx="333.41388"
+         cy="1045.9147"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-06"
+         cx="324.56683"
+         cy="1045.9592"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-59"
+         cx="324.6181"
+         cy="1038.7194"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-6"
+         cx="333.36661"
+         cy="1038.7061"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-54"
+         cx="42.668331"
+         cy="834.83875"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-62"
+         cx="51.400475"
+         cy="834.81641"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-104"
+         cx="60.136288"
+         cy="834.80115"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-00"
+         cx="68.956673"
+         cy="834.85339"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-44"
+         cx="42.654984"
+         cy="827.67279"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-94"
+         cx="51.424767"
+         cy="827.63416"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-009"
+         cx="60.150951"
+         cy="827.66345"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-48"
+         cx="68.964722"
+         cy="827.67047"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-744"
+         cx="103.92654"
+         cy="827.65112"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-85"
+         cx="112.67166"
+         cy="827.65649"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-78"
+         cx="121.4491"
+         cy="827.62646"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-87"
+         cx="130.22127"
+         cy="827.65881"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-75"
+         cx="130.22191"
+         cy="834.86108"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-71"
+         cx="121.43547"
+         cy="834.85339"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-187"
+         cx="112.67336"
+         cy="834.83807"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-856"
+         cx="182.81631"
+         cy="827.62646"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-28"
+         cx="191.57013"
+         cy="834.86108"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-060"
+         cx="200.32458"
+         cy="834.81641"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-24"
+         cx="209.04575"
+         cy="834.82275"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-79"
+         cx="217.8112"
+         cy="834.83875"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-33"
+         cx="226.57727"
+         cy="834.89044"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-80"
+         cx="235.30109"
+         cy="834.83112"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-51"
+         cx="209.05038"
+         cy="827.62952"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-69"
+         cx="252.86232"
+         cy="834.84576"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-23"
+         cx="261.63446"
+         cy="834.82343"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-306"
+         cx="252.83168"
+         cy="827.68109"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-592"
+         cx="261.58981"
+         cy="827.67047"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-914"
+         cx="331.65048"
+         cy="834.77179"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+      <circle
+         id="connector59pad-7-2-73"
+         cx="331.67279"
+         cy="827.60583"
+         style="fill:none;fill-opacity:0;stroke:#f7bd13"
+         r="1.8839999" />
+    </g>
+  </g>
+</svg>

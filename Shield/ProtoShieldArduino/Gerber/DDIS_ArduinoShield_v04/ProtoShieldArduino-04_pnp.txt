@@ -1,0 +1,20 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=ProtoShieldArduino-04
+*Date=13:48:51
+*CreatedBy=Fritzing 0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;47.3927;-35.4444;0;Bottom;U1
+2;;;25.908;-14.2216;0;Bottom;Via2
+3;;;66.7512;-33.7288;0;Bottom;Via4
+4;;;58.2168;-13.0024;0;Bottom;Via3
+5;;;61.2648;-13.0024;0;Bottom;Via1
